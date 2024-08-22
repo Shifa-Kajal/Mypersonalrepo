@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview-project/Interview-project.iml" filepath="$PROJECT_DIR$/Interview-project/Interview-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LKG/LKG.iml" filepath="$PROJECT_DIR$/LKG/LKG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mypersonal-prac-1/Mypersonal-prac-1.iml" filepath="$PROJECT_DIR$/Mypersonal-prac-1/Mypersonal-prac-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pract2/Pract2.iml" filepath="$PROJECT_DIR$/Pract2/Pract2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practicing/Practicing.iml" filepath="$PROJECT_DIR$/Practicing/Practicing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringProblems/StringProblems.iml" filepath="$PROJECT_DIR$/StringProblems/StringProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boca-bc24-java-core-problems/boca-bc24-java-core-problems.iml" filepath="$PROJECT_DIR$/boca-bc24-java-core-problems/boca-bc24-java-core-problems.iml" />
+    </modules>
+  </component>
+</project>
